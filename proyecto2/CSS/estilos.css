@@ -1,0 +1,153 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font: menu;
+    font-size: 20px;
+}
+.menuA{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 10px;
+    left: 10px;
+    position: fixed;
+    left: 68%;
+    text-decoration: none;
+    color: #bfe1f1;
+    font-family: "Courier New", monospace;
+    
+}
+body h1{
+    font: oblique bold 120% cursive;
+    font-size: 32px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    font: menu;
+    padding-left: 15px;
+    font-size: 20px;
+    color: black;
+}
+
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+overflow: hidden;
+background-color: #333;
+
+}
+
+.topnav a {
+float: left;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover {
+background-color: black;
+color: white;
+}
+
+.topnav a.active {
+background-color: #04AA6D;
+color: white;
+}
+.tipos {
+    font-size: 14px;
+    text-align: center;
+}
+
+.para{
+    
+    text-align: center;
+    font-size: 15pt;
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    left: 20%;
+    font: bold 90% monospace;
+    font-size: 20px;
+    text-align: justify;
+}
+.linea{
+    background-color: rgba(211,65,63,1);
+    width: 1000px;
+    height: 10px;
+    position: absolute;
+    left: 20%;
+}
+.hti{
+    font: oblique bold 120% cursive;
+    font-size: 60px;
+}
+.tabla{
+    position: absolute;
+    left: 20px;
+}
+.ventajas{
+    font-size: 14px;
+    text-align: center;
+}
+.vent{
+    font: oblique bold 120% cursive;
+    font-size: 60px;
+}
+.ventTX{
+    text-align: center;
+    font-size: 15pt;
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    left: 20%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+.lisR{
+    text-align: center;
+    font-size: 15pt;
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    left: 20%;
+    font: oblique bold 120% cursive;
+    font-size: 23px;
+    text-align: justify;
+}
+.btn{
+    width: 1000px;
+    height: 40px;
+    position: absolute;
+    top: 80%;
+    right: 28%;
+    background-color: rgba(211,65,63,1);
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+}
+.btnV{
+    width: 400px;
+    height: 40px;
+    position: absolute;
+    top: 85%;
+    right: 44%;
+    background-color: rgba(211,65,63,1);
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+}
